@@ -12,7 +12,7 @@
 - 🔭 Very Keen about Integrating AI to my workflow
 - 🫱🏻‍🫲🏾 I believe innovation thrives in curiosity-led teams that question, experiment, and build with intent.
 - ✉️ Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
-- 📫 Social Media: [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)]
+- 📫 Social Media: <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 ---
 
 ### 💻 Tech Stack
