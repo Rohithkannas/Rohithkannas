@@ -2,11 +2,15 @@
 
 👨‍💻 **Pre-Final Year Engineering Student** @ Sri Venkateswara College of Engineering | 🚀 Aspiring **Data Scientist**
 
-- 🔭 I’m currently working on **AEGIS X (Zoho Cliq Extension)**
-- 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- 💬 Ask me about **Flutter, MATLAB, and Signal Processing**
-- 📫 Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
+- 🌱 I’m currently learning DSA and Integrating AI to my workflow
+- - 🔭 I’m currently working on **AEGIS X (Zoho Cliq Extension)**
+- 💬 Ask me about **Flutter, MATLAB, and Signal Processing**
+-  Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
+- 📫 Social Media:
+- <br />[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)
+-
 ---
 
 ### 💻 Tech Stack
@@ -16,8 +20,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e65030.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
