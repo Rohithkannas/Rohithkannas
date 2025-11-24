@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Serif%20Hebrew)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas)(https://github.com/Rohithkannas/github-readme-stats)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=transparent)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Sans%20Ugaritic)
 
 ![Rohithkannas's Stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
