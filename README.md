@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas)(https://github.com/Rohithkannas/github-readme-stats)
+[![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas)](https://github.com/Rohithkannas/github-readme-stats)
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=transparent)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Sans%20Ugaritic)
 
