@@ -1,16 +1,18 @@
 ## 👋 Hi, I'm Rohith Kanna!
 
-👨‍💻 **Pre-Final Year Engineering Student** @ Sri Venkateswara College of Engineering | 🚀 Aspiring **Data Scientist**
+👨‍💻 **Pre-Final Year Engineering Student** @ Sri Venkateswara College of Engineering
+🚀 Aspiring **Data Scientist**
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-- 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- - 🔭 I’m currently working on **AEGIS X (Zoho Cliq Extension)**
-- 💬 Ask me about **Flutter, MATLAB, and Signal Processing**
--  Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
-- 📫 Social Media:
-- <br />[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)
--
+
+- 🔬 Currently pursuing Electronics & Communication Engineering, but my compass points toward software and data-driven systems.
+- 💻 Skilled in Python, SQL, and full-stack tools, with hands-on experience in machine learning and data visualization.
+- 🌱 I’m currently learning DSA in JAVA
+- 🔭 Very Keen about Integrating AI to my workflow
+- 🫱🏻‍🫲🏾 I believe innovation thrives in curiosity-led teams that question, experiment, and build with intent.
+- ✉️ Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
+- 📫 Social Media: <br />[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)]
 ---
 
 ### 💻 Tech Stack
@@ -26,12 +28,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 LeetCode Stats
 
-[![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas)](https://github.com/Rohithkannas/github-readme-stats)
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=transparent)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Sans%20Ugaritic)
 
+### 📊 Github Stats
+
 ![Rohithkannas's Stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
-![Rohithkannas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&layout=compact)
