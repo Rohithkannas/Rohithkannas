@@ -24,10 +24,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/Rohithkannas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</a>
-</div>
+![Rohithkannas's Stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
+![Rohithkannas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&layout=compact)
