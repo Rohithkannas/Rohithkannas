@@ -32,6 +32,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Sans%20Ugaritic)
 
+---
+
 ### 📊 Github Stats
 
 ![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
