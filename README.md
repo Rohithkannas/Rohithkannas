@@ -6,13 +6,13 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 
-- 🔬 Currently pursuing Electronics & Communication Engineering, but my compass points toward software and data-driven systems.
+- 🔬 Currently pursuing Electronics & Communication Engineering.
 - 💻 Skilled in Python, SQL, and full-stack tools, with hands-on experience in machine learning and data visualization.
 - 🌱 I’m currently learning DSA in JAVA
 - 🔭 Very Keen about Integrating AI to my workflow
 - 🫱🏻‍🫲🏾 I believe innovation thrives in curiosity-led teams that question, experiment, and build with intent.
 - ✉️ Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
-- 📫 Social Media: <br />[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)]
+- 📫 Social Media: [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rohith4510)]
 ---
 
 ### 💻 Tech Stack
