@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Rohith Kanna!
 
-👨‍💻 **Engineering Student** @ SVCE | 🚀 **Zoho Cliqtrix** Participant
+👨‍💻 **Pre-Final Year Engineering Student** @ Sri Venkateswara College of Engineering | 🚀 Aspiring **Data Scientist**
 
 - 🔭 I’m currently working on **AEGIS X (Zoho Cliq Extension)**
-- 🌱 I’m learning **Industrial IoT & Advanced Deep Learning**
+- 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - 💬 Ask me about **Flutter, MATLAB, and Signal Processing**
-- 📫 Reach me at **[YourEmail@gmail.com](mailto:YourEmail@gmail.com)**
+- 📫 Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
 
 ---
 
 ### 💻 Tech Stack
 
-![HTML](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e65030.svg?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -23,6 +23,8 @@
 ---
 
 ### 📊 GitHub Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Serif%20Hebrew)
 
 ![Rohithkannas's Stats](https://github-readme-stats.vercel.app/api?username=Rohithkannas&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
