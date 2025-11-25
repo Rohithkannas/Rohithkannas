@@ -62,6 +62,8 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 
 ## 📊 GitHub Analytics
 
+![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
+
 <div align="center">
 
 ![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
