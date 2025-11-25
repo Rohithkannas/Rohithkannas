@@ -16,9 +16,8 @@
     <br/><br/>
     My technical journey is centered on <b style="color: #00F0FF;">Data Science</b>, <b style="color: #00F0FF;">Machine Learning</b>, and full-stack development. I am particularly passionate about integrating <b style="color: #00F0FF;">AI into daily workflows</b> to create smarter, efficient systems.
     <br/><br/>
-    Currently, I am mastering <b style="color: #2F81F7;">DSA in Java</b> . I believe in building "tech for good," focusing on real-world solutions like <b style="color: #00F0FF;">safety dashboards</b> and automated extensions.
+    Currently, I am mastering <b style="color: #2F81F7;">DSA in Java</b> . I believe in building "tech for good," focusing real-world solutions like <b style="color: #00F0FF;">safety dashboards</b> and automated extensions.
     <br/><br/>
-    <i>"Innovation thrives in curiosity-led teams that question, experiment, and build with intent."</i>
   </div>
 </td>
 
