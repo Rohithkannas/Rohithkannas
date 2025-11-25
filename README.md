@@ -29,10 +29,10 @@
 <!-- Resume Section -->
 <div align="center">
 
-### 📄 Want to know more?
+### Want to know more?
 
-<a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/Resume.pdf">
-  <img src="https://img.shields.io/badge/Download_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Download Resume" />
+<a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/ROHITH_RESUME.pdf">
+  <img src="https://img.shields.io/badge/📄_Download_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Download Resume" />
 </a>
 
 </div>
