@@ -62,8 +62,6 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 
 ## 📊 GitHub Analytics
 
-![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
-
 <div align="center">
 
 ![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
@@ -73,7 +71,7 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 </div>
 
 <!-- Static Blue Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
 
 ## 🏆 LeetCode Journey
 
