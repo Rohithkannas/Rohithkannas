@@ -5,6 +5,14 @@
 
 </div>
 
+<!-- Resume Download -->
+<p align="center">
+  <a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_My_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Resume"/>
+  </a>
+</p>
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
@@ -48,7 +56,6 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:rohithkanna.ss@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rohith4510/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Rohithkannas)
-[![Resume](https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=000000)](https://github.com/Rohithkannas/Rohithkannas/blob/main/ROHITH_RESUME.pdf)
 
 </div>
 
