@@ -1,39 +1,39 @@
-## 👋 Hi, I'm Rohith Kanna!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rohith%20Kanna%20S&fontSize=80&fontAlignY=40&desc=Data%20Scientist%20in%20the%20Making&descAlignY=60&descSize=25" />
+</div>
 
-👨‍💻 **Pre-Final Year Engineering Student** @ Sri Venkateswara College of Engineering
-🚀 Aspiring **Data Scientist**
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👋 About Me</h3>
+      <ul>
+        <li>🔬 <b>Pre-Final Year ECE Student</b> @ SVCE</li>
+        <li>💻 Skilled in <b>Python, SQL, ML & Data Viz</b></li>
+        <li>🌱 Currently grinding <b>DSA in JAVA</b></li>
+        <li>🔭 Keen on <b>AI Integration</b> in workflows</li>
+        <li>🫱🏻‍🫲🏾 Believer in curiosity-led innovation</li>
+      </ul>
+      <a href="mailto:rohithkanna.ss@gmail.com">
+        <img src="https://img.shields.io/badge/Contact_Me-Click_Here-3670A0?style=plastic" />
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <h3>🛠️ Languages</h3>
+      <img src="https://skillicons.dev/icons?i=py,java,matlab,mysql,ts,tensorflow&theme=light&perline=3" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<h3 align="center">📈 Code Statistics</h3>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohithkannass?theme=tokyonight&font=Noto%20Sans%20Ugaritic" />
+</div>
 
-
-- 🔬 Currently pursuing Electronics & Communication Engineering.
-- 💻 Skilled in Python, SQL, and full-stack tools, with hands-on experience in machine learning and data visualization.
-- 🌱 I’m currently learning DSA in JAVA
-- 🔭 Very Keen about Integrating AI to my workflow
-- 🫱🏻‍🫲🏾 I believe innovation thrives in curiosity-led teams that question, experiment, and build with intent.
-- ✉️ Reach me at **[rohithkanna.ss@gmail.com](mailto:rohithkanna.ss@gmail.com)**
-- 📫 Social Media: <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
----
-
-### 💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-e65030.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-### 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Noto%20Sans%20Ugaritic)
-
----
-
-### 📊 Github Stats
-
-![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
