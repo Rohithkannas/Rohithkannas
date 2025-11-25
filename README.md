@@ -1,67 +1,87 @@
 <div align="center">
 
-<img src="https://i.imgur.com/8Q6aW6S.gif" width="100%" style="border-radius: 10px; border-bottom: 3px solid #0047AB;" alt="Royal Fog Animation" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=32&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT:+ROHITH_KANNA_S;LOADING_MODULE:+DATA_SCIENCE;LOADING_MODULE:+ENGINEERING;STATUS:+ONLINE" alt="HUD Typing" />
+</a>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="20" />
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=40&pause=1000&color=4169E1&background=00000000&center=true&vCenter=true&width=600&lines=ROHITH+KANNA;THE+DATA+ARCHITECT;ENGINEERING+SCHOLAR" alt="Royal Typing SVG" />
-</a>
-
-<br/>
-
-<table border="0" width="80%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; background-color: #0a0a0a; border: 1px solid #0047AB; border-radius: 15px;">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" style="background-color: #0d1117;">
   <tr>
-    <td align="center">
-      <p style="font-family: serif; color: #e0e0e0; font-size: 16px;">
-        <span style="color: #4169E1; font-size: 20px;">⚜️</span> &nbsp; Pre-Final Year Scholar @ <b>SVCE</b> <br/><br/>
-        <span style="color: #4169E1; font-size: 20px;">💠</span> &nbsp; Aspiring <b>Data Scientist</b> & AI Integrator <br/><br/>
-        <span style="color: #4169E1; font-size: 20px;">🗡️</span> &nbsp; Honing Skills in <b>Java DSA</b> & Machine Learning <br/><br/>
-        <span style="color: #4169E1; font-size: 20px;">📜</span> &nbsp; <i>"Building innovations with deliberate intent."</i>
-      </p>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+        <h3 align="left" style="color: #00F0FF; font-family: monospace;">[//]: # (USER_PROFILE)</h3>
+        <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 10px;">
+                <img src="https://img.shields.io/badge/ROLE-ENGINEER-000000?style=flat-square&logo=arduino&logoColor=00F0FF&border=00F0FF" /> 
+                &nbsp; <b>Pre-Final Year ECE</b> @ SVCE
+            </li>
+             <li style="margin-bottom: 10px;">
+                <img src="https://img.shields.io/badge/FOCUS-DATA_SCIENCE-000000?style=flat-square&logo=googlecolab&logoColor=00F0FF&border=00F0FF" /> 
+                &nbsp; Machine Learning & AI
+            </li>
+             <li style="margin-bottom: 10px;">
+                <img src="https://img.shields.io/badge/STATUS-LEARNING-000000?style=flat-square&logo=java&logoColor=00F0FF&border=00F0FF" /> 
+                &nbsp; <b>DSA in Java</b>
+            </li>
+            <li style="margin-bottom: 10px;">
+                <img src="https://img.shields.io/badge/LOC-INDIA-000000?style=flat-square&logo=googlemaps&logoColor=00F0FF&border=00F0FF" /> 
+            </li>
+        </ul>
+        
+        <br/>
+        
+        <h3 align="left" style="color: #00F0FF; font-family: monospace;">[//]: # (UPLINK)</h3>
+        <a href="https://www.linkedin.com/in/rohith4510/">
+            <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+        </a>
+        &nbsp;
+        <a href="mailto:rohithkanna.ss@gmail.com">
+            <img src="https://img.shields.io/badge/EMAIL-SEND_PACKET-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
+        </a>
+    </td>
+
+    <td width="45%" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90%" style="border-radius: 10px; border: 2px solid #00F0FF;" alt="Tech Animation" />
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=5&width=200&section=header" />
-<h3 style="color: #ffffff; font-family: serif; letter-spacing: 2px;">DOMAIN ARSENAL</h3>
+<div align="center" style="border: 1px solid #30363d; padding: 20px; border-radius: 10px;">
+  <h3 style="color: #00F0FF; font-family: monospace;">>_ LOAD_ARSENAL.EXE</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,matlab,tensorflow,mysql,html,css,ts,vscode,git&theme=dark&perline=10" />
+  </a>
+</div>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,tensorflow,mysql,html,css,ts,md,git,vscode&theme=dark&perline=11" />
-</a>
+<br/>
 
-<br/><br/><br/>
-
-<h3 style="color: #ffffff; font-family: serif; letter-spacing: 2px;">THE CHRONICLES</h3>
+<h3 align="center" style="color: #00F0FF; font-family: monospace;">>_ SYSTEM_TELEMETRY</h3>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="5">
   <tr>
     <td width="50%" align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=4169E1&text_color=ffffff&icon_color=4169E1&border_color=0047AB&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&background=000000&border=0047AB&stroke=4169E1&ring=0047AB&fire=4169E1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4169E1&sideLabels=4169E1&dates=ffffff" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Cinzel" width="95%" style="border: 1px solid #0047AB; border-radius: 10px;" />
+    <img src="https://leetcard.jacoblin.cool/Rohithkannass?theme=radical&font=Share%20Tech%20Mono&ext=heatmap" width="95%" />
 </div>
 
 <br/><br/>
 
-<h3 style="color: #ffffff; font-family: serif;">ESTABLISH CONNECTION</h3>
-<a href="https://www.linkedin.com/in/rohith4510/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect_on_the_Network-0047AB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer" width="100%" />
+<p align="center" style="font-family: monospace; color: #586069;">
+  <i>// END_OF_TRANSMISSION</i>
+</p>
 
 </div>
