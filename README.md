@@ -1,10 +1,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=45&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=ROHITH+KANNA;DATA+SCIENTIST;ENGINEER;ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=ROHITH+KANNA;DATA+SCIENTIST;ENGINEER;BUILDING+THE+FUTURE" alt="Typing SVG" />
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=true&card_width=800&card_height=100&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Invisible Spacer for Aesthetic" height="0" />
+<br/>
+<img src="https://raw.githubusercontent.com/Rohithkannas/Rohithkannas/output/github-contribution-grid-snake-dark.svg" />
 <br/>
 
 <p align="center" style="font-family: monospace;">
