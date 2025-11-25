@@ -39,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e65030.svg?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![MATLAB](https://img.shields.io/badge/MATLAB-e65030.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000)
 
