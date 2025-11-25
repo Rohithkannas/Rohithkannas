@@ -22,13 +22,16 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 
 <br>
 
+<!-- Static Blue Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <!-- Resume Section -->
 <div align="center">
 
 ### 📄 Want to know more?
 
 <a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/Resume.pdf">
-  <img src="https://img.shields.io/badge/📥_Download_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Download Resume" />
+  <img src="https://img.shields.io/badge/Download_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Download Resume" />
 </a>
 
 </div>
