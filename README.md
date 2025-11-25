@@ -1,87 +1,95 @@
 <div align="center">
 
+<!-- 1. ANIMATED HEADER: CSS TYPING EFFECT -->
+<!-- Mimics a terminal booting up. Font: 'Fira Code' for coding aesthetic. -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=32&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT:+ROHITH_KANNA_S;LOADING_MODULE:+DATA_SCIENCE;LOADING_MODULE:+ENGINEERING;STATUS:+ONLINE" alt="HUD Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_INIT_::_ROHITH_KANNA;LOADING_PROFILE_::_DATA_SCIENTIST;EXECUTING_::_AI_INTEGRATION;STATUS_::_ONLINE" alt="Typing SVG" />
 </a>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="20" />
+<!-- 2. ANIMATED DIVIDER: BLUE DATA STREAM -->
+<!-- This GIF simulates a data connection. Pure Black/Blue. -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<br/><br/>
+<br/>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" style="background-color: #0d1117;">
+<!-- 3. THE HUD DASHBOARD (Grid Layout) -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0" style="background-color: #000000; border: 1px solid #2F81F7;">
   <tr>
-    <td width="55%" valign="top" style="padding-right: 20px;">
-        <h3 align="left" style="color: #00F0FF; font-family: monospace;">[//]: # (USER_PROFILE)</h3>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="margin-bottom: 10px;">
-                <img src="https://img.shields.io/badge/ROLE-ENGINEER-000000?style=flat-square&logo=arduino&logoColor=00F0FF&border=00F0FF" /> 
-                &nbsp; <b>Pre-Final Year ECE</b> @ SVCE
+    <!-- LEFT PANEL: USER DATA -->
+    <td width="55%" valign="top" style="padding: 20px; color: #ffffff;">
+        <h3 align="left" style="color: #2F81F7; font-family: monospace; border-bottom: 1px solid #1f6feb;">>_ USER_METADATA</h3>
+        <ul style="list-style-type: none; padding: 0; font-family: monospace;">
+            <li style="margin-bottom: 12px;">
+                <img src="https://img.shields.io/badge/CURRENT_RANK-PRE_FINAL_YEAR-000000?style=for-the-badge&logo=force&logoColor=2F81F7&labelColor=000000" /> 
             </li>
-             <li style="margin-bottom: 10px;">
-                <img src="https://img.shields.io/badge/FOCUS-DATA_SCIENCE-000000?style=flat-square&logo=googlecolab&logoColor=00F0FF&border=00F0FF" /> 
-                &nbsp; Machine Learning & AI
+             <li style="margin-bottom: 12px;">
+                <img src="https://img.shields.io/badge/SPECIALTY-DATA_SCIENCE-000000?style=for-the-badge&logo=googlecolab&logoColor=2F81F7&labelColor=000000" /> 
             </li>
-             <li style="margin-bottom: 10px;">
-                <img src="https://img.shields.io/badge/STATUS-LEARNING-000000?style=flat-square&logo=java&logoColor=00F0FF&border=00F0FF" /> 
-                &nbsp; <b>DSA in Java</b>
+             <li style="margin-bottom: 12px;">
+                <img src="https://img.shields.io/badge/LANGUAGE-JAVA_DSA-000000?style=for-the-badge&logo=openjdk&logoColor=2F81F7&labelColor=000000" /> 
             </li>
-            <li style="margin-bottom: 10px;">
-                <img src="https://img.shields.io/badge/LOC-INDIA-000000?style=flat-square&logo=googlemaps&logoColor=00F0FF&border=00F0FF" /> 
+            <li style="margin-bottom: 12px;">
+                <img src="https://img.shields.io/badge/OPERATION-AI_WORKFLOWS-000000?style=for-the-badge&logo=openai&logoColor=2F81F7&labelColor=000000" /> 
             </li>
         </ul>
         
         <br/>
-        
-        <h3 align="left" style="color: #00F0FF; font-family: monospace;">[//]: # (UPLINK)</h3>
+        <!-- BUTTONS: Neon Blue Borders -->
         <a href="https://www.linkedin.com/in/rohith4510/">
-            <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+            <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=social&logo=linkedin" />
         </a>
         &nbsp;
         <a href="mailto:rohithkanna.ss@gmail.com">
-            <img src="https://img.shields.io/badge/EMAIL-SEND_PACKET-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
+            <img src="https://img.shields.io/badge/GMAIL-SEND_MAIL-000000?style=social&logo=gmail" />
         </a>
     </td>
 
-    <td width="45%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90%" style="border-radius: 10px; border: 2px solid #00F0FF;" alt="Tech Animation" />
+    <!-- RIGHT PANEL: ANIMATED GADGET -->
+    <td width="45%" align="center" valign="middle" style="border-left: 1px solid #1f6feb;">
+        <!-- Animated Hologram Globe/Tech GIF -->
+        <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="90%" style="border-radius: 5px; opacity: 0.9;" alt="Blue Tech Animation" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center" style="border: 1px solid #30363d; padding: 20px; border-radius: 10px;">
-  <h3 style="color: #00F0FF; font-family: monospace;">>_ LOAD_ARSENAL.EXE</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,matlab,tensorflow,mysql,html,css,ts,vscode,git&theme=dark&perline=10" />
-  </a>
+<!-- 4. ACTIVE ARSENAL (Tech Stack) -->
+<div align="center">
+    <h3 style="color: #2F81F7; font-family: monospace;">>_ LOAD_MODULES.EXE</h3>
+    <!-- Skill Icons: Dark theme matches the Black BG perfectly -->
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,matlab,tensorflow,mysql,html,css,ts,vscode,git&theme=dark&perline=10" />
+    </a>
 </div>
 
 <br/>
 
-<h3 align="center" style="color: #00F0FF; font-family: monospace;">>_ SYSTEM_TELEMETRY</h3>
+<!-- 5. PERFORMANCE METRICS (Custom Palette) -->
+<!-- These URLs force the graphs to be Black background with Electric Blue lines -->
+<h3 align="center" style="color: #2F81F7; font-family: monospace;">>_ SYSTEM_PERFORMANCE</h3>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<table border="0" width="100%">
   <tr>
     <td width="50%" align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=2F81F7&text_color=ffffff&icon_color=2F81F7&border_color=2F81F7&hide_border=false" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&background=000000&border=2F81F7&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=ffffff" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
+<!-- Leetcode: Full Width, Dark Theme -->
 <br/>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Rohithkannass?theme=radical&font=Share%20Tech%20Mono&ext=heatmap" width="95%" />
+    <img src="https://leetcard.jacoblin.cool/Rohithkannass?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" style="border: 1px solid #2F81F7; border-radius: 8px;" />
 </div>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer" width="100%" />
-<p align="center" style="font-family: monospace; color: #586069;">
-  <i>// END_OF_TRANSMISSION</i>
-</p>
+<!-- 6. FOOTER: ANIMATED WAVE -->
+<!-- Blue wave at the bottom to close the interface -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
 </div>
