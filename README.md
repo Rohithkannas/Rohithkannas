@@ -15,26 +15,15 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ```yaml
-name: Rohith Kanna
-education: Pre-Final Year @ Sri Venkateswara College of Engineering
-major: Electronics & Communication Engineering
+Name: Rohith Kanna
+Education: Pre-Final Year @ Sri Venkateswara College of Engineering
+Major: Electronics & Communication Engineering
 role: Aspiring Data Scientist
-location: Chennai, Tamil Nadu, IN
-interests: [AI Integration, Machine Learning, Data Science]
+Location: Chennai, Tamil Nadu, IN
+Interests:  Web Developement, Machine Learning, Data Science
 currently_learning: DSA in JAVA
-philosophy: "Innovation thrives in curiosity-led teams"
+Philosophy: "Innovation thrives in curiosity-led teams"
 ```
-
-<br>
-
-- 🔬 Pursuing **Electronics & Communication Engineering**
-- 💻 Skilled in **Python, SQL, Full-Stack Development**
-- 🧠 Hands-on experience in **ML & Data Visualization**
-- 🌱 Currently mastering **Data Structures & Algorithms in JAVA**
-- 🔭 Passionate about **Integrating AI into workflows**
-- 🫱🏻‍🫲🏾 Believer in **curiosity-led innovation**
-
-<br>
 
 <!-- Static Blue Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -44,7 +33,7 @@ philosophy: "Innovation thrives in curiosity-led teams"
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:rohithkanna.ss@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rohithkannass)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rohith4510/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Rohithkannas)
 
 </div>
@@ -75,10 +64,6 @@ philosophy: "Innovation thrives in curiosity-led teams"
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithkannas&theme=tokyonight" />
 
 </div>
@@ -98,14 +83,6 @@ philosophy: "Innovation thrives in curiosity-led teams"
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📈 Profile Views
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Rohithkannas/Rohithkannas/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <div align="center">
 
