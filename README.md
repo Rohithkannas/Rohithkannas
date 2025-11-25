@@ -64,19 +64,10 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 
 <div align="center">
 
-<a href="https://github.com/Rohithkannas">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Rohithkannas">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Rohithkannas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohithkannas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<a href="https://github.com/Rohithkannas">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</a>
-<a href="https://github.com/Rohithkannas">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohithkannas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Wakatime Stats" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkannas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohithkannas&custom_title=Rohith's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true)
 
