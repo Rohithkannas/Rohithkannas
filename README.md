@@ -99,6 +99,14 @@ philosophy: "Innovation thrives in curiosity-led teams"
 
 ## 📈 Profile Views
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Rohithkannas/Rohithkannas/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Rohithkannas&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
