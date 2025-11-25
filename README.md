@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=200&section=header&text=ROHITH%20KANNA%20S&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -60,9 +60,7 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![Rohithkannas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohithkannas&theme=dark&hide_border=false)
-
+  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohithkannas&custom_title=Rohith's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true)
 
 </div>
