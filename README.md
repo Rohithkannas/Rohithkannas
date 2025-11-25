@@ -1,14 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=200&section=header&text=Rohith%20Kanna%20S&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=200&section=header&text=ROHITH%20KANNA%20S&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
-<!-- Static Blue Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
@@ -71,7 +68,7 @@ Philosophy: "Innovation thrives in curiosity-led teams"
 </div>
 
 <!-- Static Blue Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🏆 LeetCode Journey
 
