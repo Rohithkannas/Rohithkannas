@@ -10,7 +10,17 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-```yaml
+<td width="60%" align="left" valign="center" style="padding-right: 20px;">
+  <div style="font-family: sans-serif; font-size: 16px; line-height: 1.8; color: #e6edf3;">
+    I am a Pre-Final Year student at <b style="color: #2F81F7;">Sri Venkateswara College of Engineering</b>, Chennai, majoring in <b>Electronics & Communication Engineering</b>.
+    <br/><br/>
+    My technical journey is driven by a passion for <b style="color: #00F0FF;">Web Development</b>, <b style="color: #00F0FF;">Machine Learning</b>, and <b style="color: #00F0FF;">Data Science</b>. Currently, I am focused on mastering <b style="color: #2F81F7;">DSA in Java</b> to sharpen my problem-solving skills.
+    <br/><br/>
+    <i>"Innovation thrives in curiosity-led teams."</i>
+  </div>
+</td>
+
+#```yaml
 Name: Rohith Kanna
 Education: Pre-Final Year @ Sri Venkateswara College of Engineering
 Major: Electronics & Communication Engineering
