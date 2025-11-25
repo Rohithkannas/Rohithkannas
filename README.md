@@ -5,18 +5,6 @@
 
 </div>
 
-<div align="center">
-
-### 📄 Want to know more about me?
-
-<a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/Resume.pdf">
-  <img src="https://img.shields.io/badge/DOWNLOAD_MY_RESUME-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=000000" alt="Download Resume" />
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-</div>
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
@@ -31,6 +19,22 @@ Interests:  Web Developement, Machine Learning, Data Science
 Currently_learning: DSA in JAVA
 Philosophy: "Innovation thrives in curiosity-led teams"
 ```
+
+<br>
+
+<!-- Resume Section -->
+<div align="center">
+
+### 📄 Want to know more?
+
+<a href="https://github.com/Rohithkannas/Rohithkannas/blob/main/Resume.pdf">
+  <img src="https://img.shields.io/badge/📥_Download_Resume-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Download Resume" />
+</a>
+
+</div>
+
+<br>
+
 
 <!-- Static Blue Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
